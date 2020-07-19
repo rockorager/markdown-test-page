@@ -117,7 +117,7 @@ There is a comment spanning multiple tags and lines below here.
 
 [[Top]](#html5-test-page)
 
-## Embedded content</h2></header>
+## Embedded content
 
 ### Images
 
